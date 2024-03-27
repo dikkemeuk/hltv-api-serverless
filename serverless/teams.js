@@ -1,4 +1,4 @@
-const HLTV = require('hltv-api').default
+const HLTV = require('hltv').default
 
 exports.handler = async function (event, context) {
     try {
